@@ -1,0 +1,9 @@
+C:\Users\Lucas\Documents\TUP\PROGRAMACION II\CustomCar\obj\Debug\CustomCar.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\TUP\PROGRAMACION II\CustomCar\obj\Debug\CustomCar.Form1.resources
+C:\Users\Lucas\Documents\TUP\PROGRAMACION II\CustomCar\obj\Debug\CustomCar.Properties.Resources.resources
+C:\Users\Lucas\Documents\TUP\PROGRAMACION II\CustomCar\obj\Debug\CustomCar.csproj.GenerateResource.cache
+C:\Users\Lucas\Documents\TUP\PROGRAMACION II\CustomCar\bin\Debug\CustomCar.exe.config
+C:\Users\Lucas\Documents\TUP\PROGRAMACION II\CustomCar\bin\Debug\CustomCar.exe
+C:\Users\Lucas\Documents\TUP\PROGRAMACION II\CustomCar\bin\Debug\CustomCar.pdb
+C:\Users\Lucas\Documents\TUP\PROGRAMACION II\CustomCar\obj\Debug\CustomCar.exe
+C:\Users\Lucas\Documents\TUP\PROGRAMACION II\CustomCar\obj\Debug\CustomCar.pdb
